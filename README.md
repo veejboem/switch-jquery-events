@@ -21,3 +21,15 @@ Start with small steps:
   - use an `if` statement to change the text
   - try the jquery `toggleClass` function to change the light and dark backgrounds
   - you should be able to click the switch many times and it should switch back and forth between light and dark modes
+
+##### Website Instructions
+
+  Start with small steps:
+
+  1) Change the status text when the document is ready
+  2) Add a click listener to the switch and incorporate the changes listed above in 'Your Assignment'
+  3) Confirm the switch works
+  4) How do we switch the classes back now?
+    a) use an if statement to change the text
+    b) use the jquery toggleClass function to change the light and dark backgrounds
+    c) you should be able to click the switch many times and it should switch back and forth between light and dark modes
